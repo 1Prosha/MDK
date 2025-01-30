@@ -1,5 +1,0 @@
-<RCC>
-  <qresource prefix="newPrefix">
-    <file>gg.png</file>
-  </qresource>
-</RCC>
